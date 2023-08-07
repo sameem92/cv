@@ -891,12 +891,12 @@ img.svg{
 	text-align:left;
 }
 .arlo_tm_progress span.label{
-	font-size:13px;
+	font-size:17px;
 	font-weight:700;
-	color:#000;
+	color:#E3872D;
 	font-family: "Montserrat";
 }
-.arlo_tm_progress span.label .experience{font-size: 12px;font-weight: 600;}
+.arlo_tm_progress span.label .experience{font-size: 15px;font-weight: 600;color:#000;}
 .arlo_tm_progress span.number{
 	float:right;
 	font-size:13px;
@@ -1008,7 +1008,7 @@ img.svg{
 	width: 100%;
 	height: auto;
 	clear: both;
-	/* float: left; */
+	float: left;
 	position: relative;
 	box-shadow: 0 0 20px rgba(0,0,0,.1);
 	padding: 40px 40px 33px 40px;
@@ -1038,14 +1038,18 @@ img.svg{
 	color: #E3872D;
 	
 }
-
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
 .arlo_tm_services_wrap .list_wrap ul li .title_service{margin-bottom: 17px;}
 .arlo_tm_services_wrap .list_wrap ul li .title_service h3{
 	font-family: "Montserrat";
-    font-size: 22px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 500;
     color: #000000;
 	line-height: 1;
+	
 }
 
 /*---------------------------------------------------*/
@@ -1968,6 +1972,7 @@ img.svg{
 	position: fixed;
 	bottom: 40px;
 	left: 55px;
+	width:5px;
 	z-index: 100;
 	overflow: hidden;
 	outline: 1px solid rgba(255,255,255,.2);
