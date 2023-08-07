@@ -1801,6 +1801,25 @@ a:hover, a:visited, a:link, a:active
     font-size: 13px;
     color: #000;
 }
+ .pay{
+	width: 100%;
+	
+	text-align: center;
+	float: left;
+}
+
+
+.pay img{
+	width: 100px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	height: 100px;
+	padding: 10px;
+	color: #E3872D;
+} 
+
+
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap ul li span{padding-left: 5px;}
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap ul li a{
 	text-decoration: none;
