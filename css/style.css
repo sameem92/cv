@@ -56,6 +56,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
+	background-color: #f6f7fd;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -69,6 +70,8 @@ img.svg{
 	position: relative;
 	z-index: 2;
 }
+
+
 
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #3d3838;
@@ -512,6 +515,7 @@ img.svg{
 	text-align: left;
 	padding-bottom: 100px;
 	position: relative;
+	
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -1763,7 +1767,7 @@ a:hover, a:visited, a:link, a:active
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #fff;
+	background-color: #f6f7fd;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -1799,7 +1803,7 @@ a:hover, a:visited, a:link, a:active
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap ul li label{
 	font-family: "Montserrat";
     font-weight: 700;
-    font-size: 13px;
+    font-size: 18px;
     color: #3d3838;
 }
  .pay{
@@ -1847,7 +1851,7 @@ a:hover, a:visited, a:link, a:active
 .arlo_tm_contact_wrap_all .rightbox .short_info_wrap ul li label{
 	font-family: "Montserrat";
     font-weight: 700;
-    font-size: 13px;
+    font-size: 18px;
     color: #3d3838;
 }
 
